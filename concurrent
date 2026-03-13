@@ -1,3 +1,0 @@
-CompletableFuture 类:
-final ConcurrentLinkedQueue<AiSkill> skills = new ConcurrentLinkedQueue<>();
-CompletableFuture.allOf().join()
